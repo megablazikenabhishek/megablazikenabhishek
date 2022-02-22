@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhishek Upadhyya
+- 👋 Hi, I’m Abhishek Upadhyay
 - 👀 I’m interested in competitive coding and Web development
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
