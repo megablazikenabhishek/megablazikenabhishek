@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megablazikenabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="megablazikenabhishek" /> </p>
 
 
-- 🌱 I’m currently learning **MongoDB, Passport JS**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Backend technologies**
 
